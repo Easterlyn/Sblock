@@ -162,7 +162,7 @@
         <artifactId>bungeecord-chat</artifactId>
         <groupId>net.md-5</groupId>
         <scope>provided</scope>
-        <version>1.16-R0.4</version>
+        <version>1.20-R0.2</version>
       </dependency>
       <!-- Module core uses server jar, also needs to specify API for dependency resolution order. -->
       <!--suppress MavenDuplicateDependenciesInspection -->
